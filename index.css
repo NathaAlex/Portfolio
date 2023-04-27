@@ -163,17 +163,4 @@ footer{
 }
 
 /* INVENTANDO MODA :) */
-
-.blink {
-    animation: blinker 0.3s linear 3;
-  }
-  
-  @keyframes blinker {
-    from { opacity: 1.0; }
-    to { opacity: 0.0; }
-  }
-  
-  /* Estilos adicionais para o hyperlink */
-  a:link, a:visited {
-    text-decoration: none;
-  }
+/* Tirei :) */
